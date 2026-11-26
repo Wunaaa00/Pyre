@@ -110,7 +110,7 @@ Yes, really. Choose a **fox, rabbit, cat, hedgehog, raven or pigeon**, and a lit
 
 Pages load cleaner, calmer and without the clutter, from the moment Pyre opens. Shield is built right in, powered by **over 300,000 filters** from the same trusted public lists the best-known blockers use: EasyList, EasyPrivacy, uBlock Origin's lists, Peter Lowe's list and URLhaus. It runs on Chromium's own fast, built-in blocking engine.
 
-- **Ads, gone**, including YouTube's video ads and those "please turn off your ad blocker" walls.
+- **Ads, gone**, including YouTube's video ads and those "please turn off your ad blocker" walls. And if YouTube ever sneaks an ad past the filters, even one stitched right into the video, Shield mutes it and skips straight past it, so your video carries on.
 - **Trackers, stopped**: analytics scripts, tracking pixels, and the tracking tags slipped into links.
 - **Scams and malware, caught**: Pyre warns you before a dangerous site opens, with one click back to safety.
 - **AI art, filtered out of Pinterest**: if you'd rather your feed were made by real people, Shield quietly removes AI-generated pins from your feed, search and boards. It goes by Pinterest's own "AI modified" label, tell-tale hashtags and AI image sites.
